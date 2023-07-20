@@ -41,14 +41,14 @@
 :root {
 	--theme: Discord Dark by SyndiShanX;                           /* Replaces Default Discord Colors                                        */
 	--background-primary: rgba(0, 0, 0, 0);                        /*                                                                        */
-	--background-secondary: #1a1a1a;                               /*                                                                        */
+	--background-secondary: #0d0d0d;                               /*                                                                        */
 	--background-tertiary: rgba(0, 0, 0, 0.5);                     /*                                                                        */
 	--border-primary: #5c5c5c;                                     /*                                                                        */
-	--border-secondary: #c0c0c0;                                   /*                                                                        */
+	--border-secondary: #4d4d4d;                                   /*                                                                        */
 	--control-brand-foreground: #3a496b!important;                 /*                                                                        */
 	--brand-experiment: #3a496b!important;                         /* Selection Colors                                                       */
-	--selection-background: #265d96;                               /*                                                                        */
-	--selection-text: #ffffff;                                     /* Red Button Colors                                                      */
+	--selection-background: #143252;                               /*                                                                        */
+	--selection-text: #ebf2fa;                                     /* Red Button Colors                                                      */
 	--red-button: #712828;                                         /*                                                                        */
 	--red-button-hover: #973535;                                   /*                                                                        */
 	--red-button-border: #ba1212;                                  /* Green Button Colors                                                    */
@@ -70,7 +70,7 @@
 	--GIFtButtons: none;                                           /* Icons Size                                                             */
 	--settingsiconssize: 18px;                                     /* Icons Gap                                                              */
 	--settingsiconsgap: 14px;                                      /* Settings Sidebar Width                                                 */
-	--sidebar-width: 245px;                                        /* Scrollbar Slider Color                                                 */
+	--sidebar-width: 250px;                                        /* Scrollbar Slider Color                                                 */
 	--scrollbar-color: rgba(66, 66, 66, 0.5);                      /* Scrollbar Slider Hover Color                                           */
 	--scrollbar-hover-color: rgba(80, 80, 80, 1);                  /* Scrollbar Width                                                        */
 	--scrollbar-width: 10px;                                        /* Server Rings - Unread Color                                            */
