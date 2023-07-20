@@ -74,12 +74,12 @@
 	--scrollbar-color: rgba(66, 66, 66, 0.5);                      /* Scrollbar Slider Hover Color                                           */
 	--scrollbar-hover-color: rgba(80, 80, 80, 1);                  /* Scrollbar Width                                                        */
 	--scrollbar-width: 10px;                                        /* Server Rings - Unread Color                                            */
-	--server-unread-colour: 55, 55, 240;                          /* Server Rings - Hover Color                                             */
+	--server-unread-colour: rgba(55, 55, 240, 0.2);                          /* Server Rings - Hover Color                                             */
   --server-hover-colour: 150, 170, 185;                          /* Server Rings - Selected Color                                          */
   --server-selected-colour: var(--accent, 53, 175, 234);         /* Server Rings - Spacing                                                 */
   --server-spacing: 20px;                                        /* Server Rings - Glow Intensity                                          */
-  --server-glow-intensity: 0;                                    /* Discord Opacity | Transparency Needs to be Enabled                     */
-	--discord-opacity: 1.0;                                        /* Images are Stored here to improve Loading times, more info in css file */	
+  --server-glow-intensity: 1;                                    /* Discord Opacity | Transparency Needs to be Enabled                     */
+	--discord-opacity: 0.2;                                        /* Images are Stored here to improve Loading times, more info in css file */	
 	/*
 		Images are Stored here to improve Loading times, to get the Image Code:
 	  Open https://codebeautify.org/image-to-base64-converter in a Browser, Upload the Image,
