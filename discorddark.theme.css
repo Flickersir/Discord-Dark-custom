@@ -77,7 +77,7 @@
 	--server-unread-colour: 55, 55, 240;                          /* Server Rings - Hover Color                                             */
   --server-hover-colour: 150, 170, 185;                          /* Server Rings - Selected Color                                          */
   --server-selected-colour: var(--accent, 53, 175, 234);         /* Server Rings - Spacing                                                 */
-  --server-spacing: 10px;                                        /* Server Rings - Glow Intensity                                          */
+  --server-spacing: 1px;                                        /* Server Rings - Glow Intensity                                          */
   --server-glow-intensity: 0;                                    /* Discord Opacity | Transparency Needs to be Enabled                     */
 	--discord-opacity: 1.0;                                        /* Images are Stored here to improve Loading times, more info in css file */	
 	/*
