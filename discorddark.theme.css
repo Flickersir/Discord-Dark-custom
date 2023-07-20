@@ -71,14 +71,14 @@
 	--settingsiconssize: 18px;                                     /* Icons Gap                                                              */
 	--settingsiconsgap: 14px;                                      /* Settings Sidebar Width                                                 */
 	--sidebar-width: 245px;                                        /* Scrollbar Slider Color                                                 */
-	--scrollbar-color: rgba(55, 55, 55, 0.5);                      /* Scrollbar Slider Hover Color                                           */
-	--scrollbar-hover-color: rgba(75, 75, 75, 1);                  /* Scrollbar Width                                                        */
-	--scrollbar-width: 8px;                                        /* Server Rings - Unread Color                                            */
-	--server-unread-colour: 194, 178, 60;                          /* Server Rings - Hover Color                                             */
-  --server-hover-colour: 186, 186, 186;                          /* Server Rings - Selected Color                                          */
+	--scrollbar-color: rgba(66, 66, 66, 0.5);                      /* Scrollbar Slider Hover Color                                           */
+	--scrollbar-hover-color: rgba(80, 80, 80, 1);                  /* Scrollbar Width                                                        */
+	--scrollbar-width: 10px;                                        /* Server Rings - Unread Color                                            */
+	--server-unread-colour: 35, 35, 175;                          /* Server Rings - Hover Color                                             */
+  --server-hover-colour: 150, 170, 185;                          /* Server Rings - Selected Color                                          */
   --server-selected-colour: var(--accent, 53, 175, 234);         /* Server Rings - Spacing                                                 */
-  --server-spacing: 16px;                                        /* Server Rings - Glow Intensity                                          */
-  --server-glow-intensity: 0.2;                                    /* Discord Opacity | Transparency Needs to be Enabled                     */
+  --server-spacing: 13px;                                        /* Server Rings - Glow Intensity                                          */
+  --server-glow-intensity: 0;                                    /* Discord Opacity | Transparency Needs to be Enabled                     */
 	--discord-opacity: 1.0;                                        /* Images are Stored here to improve Loading times, more info in css file */	
 	/*
 		Images are Stored here to improve Loading times, to get the Image Code:
