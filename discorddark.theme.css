@@ -55,9 +55,9 @@
 	--green-button: #508055;                                       /*                                                                        */
 	--green-button-hover: #629d68;                                 /*                                                                        */
 	--green-button-border: #00b344;                                /* Blue Button Colors                                                     */
-	--blue-button: #4682dc;                                        /*                                                                        */
-	--blue-button-hover: #7790c9;                                  /*                                                                        */
-	--blue-button-border: #265d96;                                 /* White Button Colors                                                    */
+	--blue-button: #148c0f;                                        /*                                                                        */
+	--blue-button-hover: #15b40f;                                  /*                                                                        */
+	--blue-button-border: #0a3205;                                 /* White Button Colors                                                    */
 	--white-button: #ffffff;                                       /*                                                                        */
 	--white-button-hover: #dedede;                                 /*                                                                        */
 	--white-button-border: #808080;                                /* Gray Button Colors                                                     */
@@ -76,7 +76,7 @@
 	--scrollbar-width: 8px;                                        /* Server Rings - Unread Color                                            */
 	--server-unread-colour: rgba(55, 55, 240, 0.2);                          /* Server Rings - Hover Color                                             */
   --server-hover-colour: 0, 135, 30;                          /* Server Rings - Selected Color                                          */
-  --server-selected-colour: var(--accent, 53, 175, 234);         /* Server Rings - Spacing                                                 */
+  --server-selected-colour: var(--accent, 20, 90, 10);         /* Server Rings - Spacing                                                 */
   --server-spacing: 20px;                                        /* Server Rings - Glow Intensity                                          */
   --server-glow-intensity: 1;                                    /* Discord Opacity | Transparency Needs to be Enabled                     */
 	--discord-opacity: 1;                                        /* Images are Stored here to improve Loading times, more info in css file */	
